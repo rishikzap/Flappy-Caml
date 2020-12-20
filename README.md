@@ -28,6 +28,10 @@ To build the project and run the game run ```make play```. XQuartz should open u
 * [**Udai Khattar**](https://github.coecis.cornell.edu/uk49)
 * [**Brian Zhang**](https://github.coecis.cornell.edu/bsz6)
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details
+
 ## Image Citations
 
 * Skull and Crossbones: http://clipart-library.com/free/skull-and-crossbones-png-transparent-background.html
