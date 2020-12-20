@@ -23,7 +23,7 @@ To build the project and run the game run ```make play```. XQuartz should open u
 
 ## Contributors
 
-* [**Rishik Zaparde**](https://github.coecis.cornell.edu/rz293)
+* [**Rishik Zaparde**](https://github.com/rishikzap)
 * [**Sunil Sabnis**](https://github.coecis.cornell.edu/svs57)
 * [**Udai Khattar**](https://github.coecis.cornell.edu/uk49)
 * [**Brian Zhang**](https://github.coecis.cornell.edu/bsz6)
