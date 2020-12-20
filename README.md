@@ -3,7 +3,7 @@
 ![](flappycaml.gif)
 
 ## Description
-A [Flappy Bird](https://en.wikipedia.org/wiki/Flappy_Bird) clone written in OCaml. We implemented sprite selection, gravity and collision fucntions, and a high score tracker--among other features. We also included a Run state similar to the [Dino Runner](https://en.wikipedia.org/wiki/Dinosaur_Game) game on Google Chrome and a Bomb state. This project was completed as a final prokect for CS 3110, Fall 2020 at Cornell University.
+A [Flappy Bird](https://en.wikipedia.org/wiki/Flappy_Bird) clone written in OCaml. We implemented sprite selection, gravity and collision fucntions, and a high score tracker--among other features. We also included a Run state similar to the [Dino Runner](https://en.wikipedia.org/wiki/Dinosaur_Game) game on Google Chrome and a Bomb state. This project was written for CS 3110, Fall 2020 at Cornell University.
 
 ## Setting Up Your Environment
 
